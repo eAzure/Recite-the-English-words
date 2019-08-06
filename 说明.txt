@@ -1,0 +1,2 @@
+本程序为用python编写的英语单词背诵小程序
+具体说明见博客https://blog.csdn.net/weixin_42412973/article/details/98587234
